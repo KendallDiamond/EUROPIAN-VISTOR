@@ -1,4 +1,4 @@
-# Forum App in React & Redux + Django
+# EUROPIAN-TOURIST
 
 ```
 Forum App, with a frontend built in React & Redux and a backend built in Django API.
